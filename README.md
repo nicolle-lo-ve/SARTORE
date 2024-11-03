@@ -215,4 +215,4 @@ La estructura es clara y organizada, facilitando tanto la lectura como el manten
 
 Este enfoque no solo mejora la estética, sino que también es funcional, permitiendo a los visitantes navegar fácilmente por las diferentes secciones del sitio. En general, este código es un buen ejemplo de cómo construir una página web moderna y responsiva.
 
-!(SARTORE/INDICE/)
+!(SARTORE/INDICE/VISTA-INICIO.jpg)
