@@ -215,4 +215,5 @@ La estructura es clara y organizada, facilitando tanto la lectura como el manten
 
 Este enfoque no solo mejora la estética, sino que también es funcional, permitiendo a los visitantes navegar fácilmente por las diferentes secciones del sitio. En general, este código es un buen ejemplo de cómo construir una página web moderna y responsiva.
 
-!(INDICE/VISTA-INICIO.jpg)
+![image](https://github.com/user-attachments/assets/1bff7dc4-3159-4de0-9e19-134e7380c70d)
+
